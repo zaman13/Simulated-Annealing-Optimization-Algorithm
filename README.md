@@ -1,4 +1,10 @@
 # Simulated-Annealing-Optimization-Algorithm
+<p float="left">
+<a href = "https://github.com/zaman13/Simulated-Annealing-Optimization-Algorithm/tree/master/Simulated%20Annealing%20code"> <img src="https://img.shields.io/badge/Language-Julia-blue" alt="alt text"> </a>
+<a href = "https://github.com/zaman13/Simulated-Annealing-Optimization-Algorithm/blob/master/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-green" alt="alt text"></a>
+<a href = "https://github.com/zaman13/Simulated-Annealing-Optimization-Algorithm/tree/master/Simulated%20Annealing%20code"> <img src="https://img.shields.io/badge/version-1.1-red" alt="alt text"> </a>
+</p>
+
 Julia code for general simulated annealing optimization algorithm. The code can find the global maximum (or minimum) of a multi-modal function of continuous variables.
 
 # Reference
